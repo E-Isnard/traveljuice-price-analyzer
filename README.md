@@ -1,3 +1,3 @@
 # traveljuice-price-analyzer
 
-Price Analyser for traveljucie
+Price Analyser for traveljuice
